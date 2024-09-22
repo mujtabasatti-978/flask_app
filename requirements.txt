@@ -1,6 +1,6 @@
-Flask==2.x
-Pillow==9.x
-opencv-python==4.x
+Flask
+Pillow
+opencv-python
 supervision==<latest_version>
 inference-sdk==<latest_version>
 
